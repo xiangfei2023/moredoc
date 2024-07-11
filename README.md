@@ -71,13 +71,7 @@
 
 <a name="wechatgroup"></a>
 
-## 微信交流群
 
-魔豆文库微信交流群，请添加`进击的皇虫`的微信，备注`魔豆文库加群`，以便进群。
-
-**微信二维码**
-
-![魔豆文库微信交流群](docs/images/wx-qrcode.jpeg)
 
 <a name="preview"></a>
 
